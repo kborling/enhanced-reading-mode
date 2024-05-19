@@ -12,7 +12,7 @@
 - Automatically updates highlights as you type.
 
 ## Installation
-You can install angular-mode using popular package managers such as Straight and Elpaca. Choose the method that suits your preference:
+You can install enhanced-reading-mode using popular package managers such as Straight and Elpaca. Choose the method that suits your preference:
 
 ### Manual
 1. **Download** the `enhanced-reading-mode.el` file and save it to a directory of your choice.

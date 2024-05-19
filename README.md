@@ -35,7 +35,7 @@ You can install enhanced-reading-mode using popular package managers such as Str
 ### Elpaca
 ```elisp
 (use-package enhanced-reading-mode
-  :elpaca (enhanced-reading-mode :host github :repo "kborling/enhanced-reading-mode" :files ("*.el")))
+  :ensure (enhanced-reading-mode :host github :repo "kborling/enhanced-reading-mode" :files ("*.el")))
 ```
 
 ### Doom Emacs
